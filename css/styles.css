@@ -1,0 +1,10 @@
+#show, #show1, #show2 {
+  display: none;
+}
+
+.card {
+  color: blue;
+  background-color: yellow;
+  margin-top: 1in;
+  width: 4in;
+}
